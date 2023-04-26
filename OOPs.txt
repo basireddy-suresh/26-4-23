@@ -1,0 +1,9 @@
+pillar of oops
+implementation of all pillars
+few fancy stufs
+Constructor: will be executed just before creation of an object
+Destructor: will be executed just before destruction of an object
+Zone and dob in function is an instance attributes.
+Inheritance: child classes will have to access the parent resources but not parent can access the child resources.
+Polymorphism : same function names with different args
+Encapsulation: wrapping the data and method in same classes
